@@ -87,3 +87,12 @@ div img {
     
 }
 
+
+
+@media (max-width : 768px){
+    .container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+}
+
